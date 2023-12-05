@@ -13,6 +13,5 @@ Our Team Members:
 
 Here our figma link: 
 https://www.figma.com/file/UAtnSgkM0UVz6DzwKXX4lG/Capstone-Project?type=design&node-id=0-1&mode=design 
-
 Here our team timeline (gantt chart): 
 https://drive.google.com/file/d/1jR_vNj5oX8yNNSz9QRsQAAJSBShfWX71/view 
