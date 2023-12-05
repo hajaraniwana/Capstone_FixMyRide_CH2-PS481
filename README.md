@@ -4,14 +4,14 @@ We present a proactive solution—an innovative application meticulously designe
 
 
 Our Team Members: 
-(ML) M258BSY1875 – M. Rafly Rahman – Active
-(ML) M296BSX0587 – Wanda Gustrifa – Active
-(ML)  M225BSY0419 – Hendri Kurniawan  – Active
-(MD) A009BSY2567 – Farhan Maulana Muhammad – Active
-(CC) C319BSX4271 – Hajarani Syadzwana – Active
-(CC) C319BSY3334 – Wilbert – Active
+- (ML) M258BSY1875 – M. Rafly Rahman – Active
+- (ML) M296BSX0587 – Wanda Gustrifa – Active
+- (ML)  M225BSY0419 – Hendri Kurniawan  – Active
+- (MD) A009BSY2567 – Farhan Maulana Muhammad – Active
+- (CC) C319BSX4271 – Hajarani Syadzwana – Active
+- (CC) C319BSY3334 – Wilbert – Active
 
-Here our figma link: 
+- Here our figma link: 
 https://www.figma.com/file/UAtnSgkM0UVz6DzwKXX4lG/Capstone-Project?type=design&node-id=0-1&mode=design 
-Here our team timeline (gantt chart): 
+- Here our team timeline (gantt chart): 
 https://drive.google.com/file/d/1jR_vNj5oX8yNNSz9QRsQAAJSBShfWX71/view 
