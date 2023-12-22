@@ -17,13 +17,15 @@ clone this repository
 Machine Learning :
 
 Cloud Computing :
-  Flask  :
+
+ Flask  :
   - Build the Flask Environment on your local computer
   - Install all the libraries required for the application based on requiremnet.txt
   - Build the docker container based on the the dockerfile provided
   - Create a cloud run service
   - Upload the docker container to cloud run, change the mapping port to 8080
   - Test the API in postman
+
   NodeJS :
   - Install required library using the "npm install" command
   - Create a firestore database, cloud storage bucket, and get API for nearbySearch in GCP
@@ -45,4 +47,8 @@ Mobile Developer :
 - Here our figma link: 
 https://www.figma.com/file/UAtnSgkM0UVz6DzwKXX4lG/Capstone-Project?type=design&node-id=0-1&mode=design 
 - Here our team timeline (gantt chart): 
-https://drive.google.com/file/d/1jR_vNj5oX8yNNSz9QRsQAAJSBShfWX71/view 
+https://drive.google.com/file/d/1jR_vNj5oX8yNNSz9QRsQAAJSBShfWX71/view
+- Flask API documentation
+https://docs.google.com/document/d/1F42jnQnCwdYM1LH4wy-Eqysxha54iEOImfJZTa2E_cg/edit?usp=sharing
+- NodeJS API documentation
+https://docs.google.com/document/d/1DbqtBKXWrOxFBzU0bSMKnrVhntx-pkjt7pD3rKNNUcI/edit?usp=sharing
