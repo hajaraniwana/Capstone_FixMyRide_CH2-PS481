@@ -15,6 +15,22 @@ We present a proactive solution—an innovative application meticulously designe
 clone this repository
 
 Machine Learning :
+- Gather the required dataset collect the dataset from open and public dataset provider(kaggle, roboflow, etc) or ask an expert or someone who knows the issues. Inthis case, we collect dataset with ask an expert or someone who knows the issues.
+- Clean, preprocess, and transform the raw data into a format suitable for training a machine learning model. 
+- Do Feature Engineering: Create new features or modify existing ones to improve the model's performance.
+- Split the data with a training and validationratio of 75:25
+- Build the model start with install all libraries required, we use TensorFlow and Sequential
+- Add training again in addition with callbacks=[early_stopping] to avoid the overfitting
+- Train the model using google collab notebook
+- Plot the loss and accuracy of training and validation into metrics to know the model suit the dataset well. The model suits our dataset well with accuracy >93%
+- Save the model in format .h5 using command model.save("your_model_name.h5").
+- Make prediction with install all libraries required
+- Define the label of our classes (we have 10 classes: masalah mesin, masalah sistem bahan bakar, masalah rem, masalah knalpot, masalah transmisi, tidak ada permasalahan, masalah kopling, masalah pendingin, masalah starter, masalah elektrikal)
+- Load the data for testing
+- Converted the text into array form.
+- Load the model that we saved befored
+- Make predictions (we got the prediction for all classes have a confidence value >95%)
+- Configure and deploy the model
 
 Cloud Computing :
 
