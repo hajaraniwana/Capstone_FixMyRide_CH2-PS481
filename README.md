@@ -58,8 +58,10 @@ Cloud Computing :
 Mobile Developer :
 
 ## Here Our Link : 
-- Here our figma link: 
-https://www.figma.com/file/UAtnSgkM0UVz6DzwKXX4lG/Capstone-Project?type=design&node-id=0-1&mode=design 
+- Here our figma link for app design: 
+https://www.figma.com/file/UAtnSgkM0UVz6DzwKXX4lG/Capstone-Project?type=design&node-id=0-1&mode=design
+- Here our figma link for cloud design:
+  https://www.figma.com/file/ATuLU2Eu79rPIDE6steN2G/FIxmyride-cloud-architecture?type=whiteboard&node-id=0%3A1&t=uS93BTeHjjrE600t-1 
 - Here our team timeline (gantt chart): 
 https://drive.google.com/file/d/1jR_vNj5oX8yNNSz9QRsQAAJSBShfWX71/view
 - Flask API documentation
