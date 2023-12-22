@@ -56,6 +56,11 @@ Cloud Computing :
   
 
 Mobile Developer :
+Android Studio
+Kotlin
+CameraX to capture user photo
+Retrofit to call API
+Figma, to design app
 
 ## Here Our Link : 
 - Here our figma link for app design: 
@@ -68,3 +73,7 @@ https://drive.google.com/file/d/1jR_vNj5oX8yNNSz9QRsQAAJSBShfWX71/view
 https://docs.google.com/document/d/1F42jnQnCwdYM1LH4wy-Eqysxha54iEOImfJZTa2E_cg/edit?usp=sharing
 - NodeJS API documentation
 https://docs.google.com/document/d/1DbqtBKXWrOxFBzU0bSMKnrVhntx-pkjt7pD3rKNNUcI/edit?usp=sharing
+- Here our demo video:
+  https://youtu.be/vdSRnOGz52Y
+- Here our PPTX file:
+  https://drive.google.com/file/d/1aJZ2d5YH7Mkab_CTVdzUydeXOtNMwGRl/view?usp=sharing 
