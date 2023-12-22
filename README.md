@@ -35,15 +35,12 @@ Machine Learning :
 Cloud Computing :
 
  Flask  :
-  - Build the Flask Environment on your local computer
-  - Install all the libraries required for the application based on requiremnet.txt
   - Build the docker container based on the the dockerfile provided
   - Create a cloud run service
   - Upload the docker container to cloud run, change the mapping port to 8080
   - Test the API in postman
 
   NodeJS :
-  - Install required library using the "npm install" command
   - Create a firestore database, cloud storage bucket, and get API for nearbySearch in GCP
   - Create service account to enable access to firestore and cloud storage
   - Generate the service account credential in a .json file
@@ -52,6 +49,7 @@ Cloud Computing :
   - Open apiKey directory inside the src directory
   - Change the comment line in the apiKey.js 
   - Replace the databases.json file with the service account credential
+  - Build the docker container based on the the dockerfile provided
   - Create a cloud run service
   - Upload the docker container to cloud run, change the mapping port to 9000
   - Test the API in postman
